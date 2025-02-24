@@ -7,12 +7,12 @@
     OR
    You may also download the Zip Folder of this repository.
 
-2. On your root(workibng) directory, open VS Code.
+2. On your root(working) directory, open VS Code.
       |-- Under the View Tab: Open Terminal.
 
 3. On VS Code Terminal, write:
   ## npm i
-#This will install the reuired dependencies and will create 'node_modules' folder in your root(working) directory
+#This will install the required dependencies and will create 'node_modules' folder in your root(working) directory
 
 4. Hold this Terminal. and Open new Terminal in VS code.
 
@@ -22,7 +22,7 @@
 
 6. In this second Terminal, write:
     ## npm i
-#This will install the reuired dependencies for backend folder and will create 'node_modules' folder in your backend folder.
+#This will install the required dependencies for backend folder and will create 'node_modules' folder in your backend folder.
 
 7. After setting up the backend, start the server. Write on the 2nd Terminal:
     ## node server.js
